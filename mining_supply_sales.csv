@@ -1,0 +1,101 @@
+sale_date,product_name,quantity,amount
+2025-07-10,Cement,10,500
+2025-07-10,Excavator Oil,5,1500
+2025-07-10,Helmet,20,300
+2025-07-10,Gloves,15,225
+2025-07-11,Cement,12,600
+2025-07-11,Helmet,25,375
+2025-07-11,Gloves,18,270
+2025-07-21,Hard Hats,28,12544
+2025-07-11,Water Pumps,19,3135
+2025-07-13,Reflective Vests,11,660
+2025-07-23,First Aid Kits,44,10780
+2025-07-13,Generators,43,15093
+2025-07-12,Gloves,16,3920
+2025-07-20,Protective Glasses,22,3366
+2025-07-23,Spare Tires,26,10582
+2025-07-14,Helmet,6,2664
+2025-07-29,Jackhammers,45,21105
+2025-07-17,Generators,39,1677
+2025-07-13,Ropes,19,8417
+2025-07-24,Chains,41,7585
+2025-07-24,Spare Tires,7,3010
+2025-07-30,Crane Cables,48,912
+2025-07-11,Conveyor Belts,40,7960
+2025-07-21,Wheelbarrows,46,5658
+2025-07-22,Helmet,49,1127
+2025-07-16,Jackhammers,45,3780
+2025-07-29,Fuel,15,765
+2025-07-25,Tool Kits,44,10340
+2025-07-19,Bulldozer Parts,12,4812
+2025-07-27,Batteries,22,1870
+2025-07-19,Lubricants,16,2512
+2025-07-21,Excavator Oil,15,4440
+2025-07-21,Chains,44,17556
+2025-07-18,First Aid Kits,39,1794
+2025-07-27,Chains,50,7300
+2025-07-22,Helmet,41,4715
+2025-07-30,Safety Boots,15,5775
+2025-07-25,Fuel,15,555
+2025-07-23,Gloves,45,9045
+2025-07-21,Lubricants,37,12358
+2025-07-11,Explosives,37,17686
+2025-07-21,Hard Hats,5,280
+2025-07-14,Generators,31,11439
+2025-07-20,Lubricants,22,5786
+2025-07-18,Drill Bits,40,17640
+2025-07-22,Jackhammers,42,12894
+2025-07-21,First Aid Kits,48,4272
+2025-07-29,Bulldozer Parts,8,2008
+2025-07-12,Safety Boots,31,7781
+2025-07-14,Water Pumps,37,7289
+2025-07-23,First Aid Kits,20,5140
+2025-07-25,Safety Boots,46,16882
+2025-07-22,Conveyor Belts,35,4900
+2025-07-16,Protective Glasses,24,5208
+2025-07-13,Rock Breakers,5,1180
+2025-07-25,Fuel,39,18096
+2025-07-28,Fuel,14,3724
+2025-07-18,Jackhammers,37,12876
+2025-07-21,Reflective Vests,10,3710
+2025-07-30,Cement,38,4750
+2025-07-30,Excavator Oil,34,4556
+2025-07-12,Protective Glasses,36,10044
+2025-07-18,Helmet,20,9360
+2025-07-14,Chains,40,14360
+2025-07-18,Helmet,39,8034
+2025-07-14,Ropes,39,9009
+2025-07-25,Ventilation Fans,36,11484
+2025-07-10,Jackhammers,35,2555
+2025-07-11,Reflective Vests,41,14555
+2025-07-10,Crane Cables,44,9856
+2025-07-16,Rock Breakers,48,16752
+2025-07-25,Ventilation Fans,48,5184
+2025-07-22,Batteries,48,11808
+2025-07-25,Crane Cables,39,19149
+2025-07-23,Fuel,45,2385
+2025-07-14,Fuel,38,2850
+2025-07-29,Lubricants,24,5112
+2025-07-29,Spare Tires,48,14112
+2025-07-14,Dust Masks,37,13801
+2025-07-26,Hard Hats,28,7896
+2025-07-15,Protective Glasses,31,2604
+2025-07-30,Jackhammers,42,13650
+2025-07-14,Conveyor Belts,45,5490
+2025-07-29,Conveyor Belts,44,13156
+2025-07-10,Jackhammers,17,8313
+2025-07-26,Hard Hats,14,3500
+2025-07-13,Protective Glasses,28,9884
+2025-07-16,Ventilation Fans,21,5439
+2025-07-27,Lubricants,49,4116
+2025-07-18,Generators,16,5072
+2025-07-23,Lubricants,10,910
+2025-07-23,Helmet,50,3550
+2025-07-23,Ropes,45,14895
+2025-07-10,Reflective Vests,13,2717
+2025-07-12,Protective Glasses,11,165
+2025-07-10,Cement,24,5232
+2025-07-23,Explosives,8,2288
+2025-07-19,Helmet,13,4342
+2025-07-24,Hard Hats,38,7524
+2025-07-10,Fuel,22,10890
